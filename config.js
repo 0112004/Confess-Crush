@@ -9,7 +9,7 @@ Ngoài ra còn nhận up đệ tử theo yêu cầu.`,
     title: 'B hãy liên hệ với chung tôi để tham khảo giá cả ',
     desc: 'Bạn hãy ấn vào :" ib " để thuê dịch vụ ',
     btnYes: 'ib',
-    btnNo: 'Không ib',
+    btnNo: 'Ko ib',
    
     messLink: 'https://www.facebook.com/messages/t/100038747524369' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
