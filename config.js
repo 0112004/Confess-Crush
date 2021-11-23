@@ -11,5 +11,5 @@ Ngoài ra còn nhận up đệ tử theo yêu cầu.`,
     btnYes: 'ib',
     btnNo: 'Không ib',
    
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100038747524369' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
